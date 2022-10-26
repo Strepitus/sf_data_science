@@ -127,4 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-caps.ipynb
+
+# big files 
+dst-3.0_16_1_hh_database — копия.csv
+dst-3.0_16_1_hh_database.csv
